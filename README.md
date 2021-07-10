@@ -1,2 +1,2 @@
-# Extens-oTeste
+# ExtensaoTeste
 Uma extensão para o firefox
